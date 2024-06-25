@@ -21312,19 +21312,6 @@ Transform:
   - {fileID: 835025480}
   m_Father: {fileID: 914986095}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &689194968303024301
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4457034030913373301}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 404fc6c9692963843aa4f6fac7932bb4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sr: {fileID: 3609997148159429594}
 --- !u!4 &1604147707667712487
 Transform:
   m_ObjectHideFlags: 0
@@ -36353,7 +36340,6 @@ GameObject:
   - component: {fileID: 4715356227399437205}
   - component: {fileID: 3609997148159429594}
   - component: {fileID: 7648430181379384162}
-  - component: {fileID: 689194968303024301}
   - component: {fileID: 7648430181379384163}
   m_Layer: 0
   m_Name: Visual
